@@ -1,2 +1,3 @@
 Welcome to Git Bash Training
 1) AWS Cloud Associate Training 
+2) Java Spring cloud Training
