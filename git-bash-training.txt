@@ -1,1 +1,2 @@
 Welcome to Git Bash Training
+1) AWS Cloud Associate Training 
